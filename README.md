@@ -9,3 +9,5 @@ Our idea is to enable cost-efficient, flexible, and sustainable access to Low Ea
 - Steven Raylan
 - Amy Lan
 
+## Live Demo
+Check out the interactive trajectory visualization here: [Demo Link](https://youth-orbit.github.io/)
