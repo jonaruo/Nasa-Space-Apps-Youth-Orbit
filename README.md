@@ -58,13 +58,20 @@ Check out our github repository for our demo here: [Repo Link](https://github.co
 Youth Orbit envisions a phased roadmap to turn this concept into a working system:
 
 1. **Phase 1 — Research & Feasibility (0–6 months):**  
-Conduct engineering studies and simulations with support from BRIN and PT Dirgantara Indonesia (PTDI) to evaluate structural and aerodynamic requirements for air-launch operations using decommissioned C-130 aircraft.
+Conduct engineering studies and simulations with support from BRIN and PT Dirgantara Indonesia (PTDI) to evaluate structural and aerodynamic requirements for air-launch operations using decommissioned C-130 aircraft. This phase includes, but not limited to:
+- acquiring necessary aircraft and crews to fly and maintain the fleet
+- designing and implementing modification to the fleet for air-launch capability
 
 2. **Phase 2 — Prototype & Testing (6–18 months):**  
-Develop a scaled prototype launcher, integrating telemetry and separation systems for suborbital demonstration missions.
+Develop a scaled prototype launcher, integrating telemetry and separation systems for suborbital demonstration missions, this phase includes, but not limited to:
+- starting with a carrying test, testing the modified airframe under the stress of carrying the payload(rocket+test payload) to certain altitude
+- checking any integrity changes and consulting with proper institutions that understands the unnderlying challenges of air-launching
+- continuing test with a drop test of the payload, to measure airframe capability on stable flight, during and after payload release.
 
 3. **Phase 3 — Regional Expansion (18–36 months):**  
-Establish partnerships with regional agencies (GISTDA, MYSA, VAST) to expand operational testing and begin collaborative orbital research launches.
+Establish partnerships with regional agencies (GISTDA, MYSA, VAST) to expand operational testing and begin collaborative orbital research launches, in this phase we expect the project to be in a level of an operational prototype, which are able to do, but not limited to:
+- starts orbital and sub-orbital launch tests.
+- starts preparing for commercial opening and plans of expanding the fleet.
 
 Each stage emphasizes local collaboration, resource optimization, and knowledge sharing — ensuring the system grows sustainably while building a regional aerospace foundation.
 
@@ -107,3 +114,6 @@ Youth Orbit’s model can integrate into global networks such as:
 - Commercial launch-on-demand services for universities and private operators beyond Indonesia and South East Asia.
 
 By connecting Southeast Asian and international players, the platform contributes to a more equitable global access to LEO — consistent with NASA’s sustainability and commercialization goals.
+
+## 📄 License
+This project is licensed under the [MIT License](./LICENSE).
