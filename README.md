@@ -27,6 +27,7 @@ Reuses decommissioned aircraft for low-cost LEO launches
 ## Live Demo
 In this demo we visualize our system of air-launch platform starting from a favorable airport position in Indonesia
 Check out the interactive trajectory visualization here: [Demo Link](https://youth-orbit.github.io/)
+
 Check out our github repository for our demo here: [Repo Link](https://github.com/Youth-Orbit/Youth-Orbit.github.io)
 
 ## 🧠 Technologies & Tools Used For the Demo
