@@ -3,7 +3,7 @@
 **Event:** NASA Space Apps Challenge 2025  
 **Challenge:** Commercializing Low Earth Orbit
 
-📚 **Read more in our [Detailed Documentation](./docs/detailed_report.md)**  
+📚 **Read more in our [Detailed Documentation](./docs/Youth_Orbit_Detailed_Report.md)**  
 (Contains safety checklists, system architecture, and technical references.)
 
 ## Team
