@@ -24,15 +24,17 @@ Our mission is to expand the access for governments, businesses, start-ups and g
 ## 💡 Our Solution
 Reuses decommissioned aircraft for low-cost LEO launches
 
-## 🧠 Technologies & Tools Used
+## Live Demo
+In this demo we visualize our system of air-launch platform starting from a favorable airport position in Indonesia
+Check out the interactive trajectory visualization here: [Demo Link](https://youth-orbit.github.io/)
+Check out our github repository for our demo here: [Repo Link](https://github.com/Youth-Orbit/Youth-Orbit.github.io)
+
+## 🧠 Technologies & Tools Used For the Demo
 | Purpose         | Tools/Technology              |
 |-----------------|-------------------------------|
 | Data            | Python, Json                  |
 | Visualization   | CesiumJs, HTML/CSS/Javascript |
 | API Integration | Cesium Ion                    |
 | Hosting         | Github Pages                  |
-
-## Live Demo
-Check out the interactive trajectory visualization here: [Demo Link](https://youth-orbit.github.io/)
 
 ## 🧮 Workflow / Architecture
